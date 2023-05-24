@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:plant_app/components/plant_box_items.dart';
-import 'package:plant_app/components/plant_types.dart';
 import 'package:plant_app/pages/shoping_cart_page.dart';
 
 import '../components/bottom_navbar.dart';
+import '../components/plant_box_items.dart';
+import '../components/plants.dart';
 import 'account_page.dart';
 
 class HomePage extends StatefulWidget {
