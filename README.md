@@ -1,8 +1,8 @@
 # plant_app
 
 A new Flutter project.
-![plant_app_introduce_page](https://github.com/sametcankosegit/plant_app/assets/129116593/d58a6c8a-a5d2-4bae-a509-f46b10aaae67)
 
+![plant_app_introduce_page](https://github.com/sametcankosegit/plant_app/assets/129116593/d58a6c8a-a5d2-4bae-a509-f46b10aaae67)
 ![Ekran Alıntısı](https://github.com/sametcankosegit/plant_app/assets/129116593/6231388d-1d10-4fbe-997f-67697879075b)
 
 ## Getting Started
